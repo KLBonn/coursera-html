@@ -2,8 +2,8 @@ body {
   font-family: Verdana, Geneva, sans-serif;
 }
 p {
-  margin-bottom: 10px;
   color: navy;
+  background-color: wheat;
   font-size: 150%;
   text-align: justify;
  }
